@@ -1,0 +1,19 @@
+{
+    "name": "dnoegel/sid-info",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Nögel",
+            "email": "github@daniel.noegelmail.de"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dnoegel\\SidInfo\\": "src/"
+        }
+    }
+}
