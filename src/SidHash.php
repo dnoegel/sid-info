@@ -17,7 +17,7 @@ class SidHash
      * Calculates the md5 of a given (sid) file handle corresponding to the
      * songlength database hash definition.
      * The songlength database will not take into account some meta data,
-     * so this md5 hash is quire specific
+     * so this md5 hash is quite specific
      *
      * @param $fh
      * @return string

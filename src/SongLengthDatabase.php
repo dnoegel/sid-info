@@ -64,7 +64,7 @@ class SongLengthDatabase
      */
     public function dumpNames()
     {
-        return $this->hashToTime;
+        return $this->nameToTime;
     }
 
     /**
